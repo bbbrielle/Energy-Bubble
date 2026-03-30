@@ -1,0 +1,5 @@
+{
+  "name": "Energy Bubble",
+  "description": "An ADHD-friendly task manager that visualizes tasks as bubbles based on energy cost and urgency.",
+  "requestFramePermissions": []
+}
